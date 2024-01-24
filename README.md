@@ -10,4 +10,4 @@
 
 
 #### Let's connect!
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/joseinfantejr/) [<img alt="Website" src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=Website&logoColor=white" />](https://joseinfante.me/) [<img alt="Email" src="https://img.shields.io/badge/Email-%23000000?style=for-the-badge&logoColor=white" />](infantejose.97@gmail.com)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/joseinfantejr/) [<img alt="Website" src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=Website&logoColor=white" />](https://joseinfante.me/) [<img alt="Email" src="https://img.shields.io/badge/Email-%23000000?style=for-the-badge&logoColor=white" />](mailto:angel.infante@angelinfante.com)
